@@ -51,7 +51,7 @@ body {
 .profile-container {
   flex: 2;
   display: flex;
-  align-items: right;
+  align-items: center;
   justify-content: flex-end;
 }
 
@@ -59,6 +59,50 @@ body {
   margin: 0 20px;
 }
 
+.profile-picture {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.toggle {
+  width: 40px;
+  height: 20px;
+  background-color: white;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+}
+
+.toggle-icon {
+  color: goldenrod;
+}
+
+.toggle-ball {
+  width: 18px;
+  height: 18px;
+  background-color: black;
+  position: absolute;
+  right: 1px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: 1s ease all;
+}
+
+.sidebar {
+  width: 50px;
+  height: 100%;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px;
+}
 
 .left-menu-icon {
   color: white;
@@ -92,7 +136,7 @@ body {
 }
 
 .featured-button {
-  background-color: #04006C;
+  background-color: #4dbf00;
   color: white;
   padding: 10px 20px;
   border-radius: 10px;
