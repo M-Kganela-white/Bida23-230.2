@@ -32,10 +32,6 @@ body {
   color: #4dbf00;
 }
 
-.container {
-  position: relative;
-  text-align: center;
-}
 .menu-container {
   flex: 6;
 }
