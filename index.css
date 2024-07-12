@@ -45,15 +45,6 @@ body {
 .menu-list-item.active {
   font-weight: bold;
 }
-.profile-container {
-  flex: 2;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-}
-
-
-
 
 .container {
   background-color: #151515;
@@ -92,7 +83,7 @@ body {
 }
 
 .movie-list-container {
-  padding: 0 50px;
+  padding:  50px;
   flex: 6;
 }
 
