@@ -277,8 +277,6 @@ body {
 
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 
-/* Colors */
-
 $dk-blue: #1E83AE;
 $blue: #3D5B94;
 $light-blue: #3DACDD;
@@ -302,7 +300,7 @@ footer {
   display: inline-block;
   margin: 2em 0;
   height: 70px;
-  background-color: #999;
+  background-color: #000;
   .copyright {
     width: 50%;
     float: left;
