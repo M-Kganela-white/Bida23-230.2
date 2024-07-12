@@ -140,7 +140,7 @@ body {
 }
 
 .container {
-  background-image: url("images/JokerPoster.jpg");
+ 
   background-color: #151515;
   min-height: calc(100vh - 50px);
   color: white;
@@ -155,8 +155,7 @@ body {
 .featured-content {
   height: 50vh;
   padding: 0 20px;
-   background: url(
-'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png');
+   background-image: url("images/JokerPoster.jpg");
             
 }
 
