@@ -26,6 +26,8 @@ body {
   height: 100%;
   color: white;
   font-family: "Sen", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
 }
 
 .logo-container {
