@@ -59,10 +59,12 @@ body {
   background-color: #151515;
   min-height: calc(100vh - 50px);
   color: white;
+  flex: 6;
 }
 
 .content-container {
   margin-left: 50px;
+  flex: 6;
 }
 
 .featured-content {
