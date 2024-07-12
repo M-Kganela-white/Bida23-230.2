@@ -44,9 +44,7 @@ body {
   
 }
 
-.menu-list-item {
-  margin-right: 30px;
-}
+
 
 .menu-list-item.active {
   font-weight: bold;
