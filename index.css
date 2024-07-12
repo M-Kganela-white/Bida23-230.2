@@ -20,7 +20,7 @@ body {
 
 .navbar-container {
   display: flex;
-  align-items: center;
+  align-items: right;
   padding: 0 50px;
   height: 100%;
   color: white;
