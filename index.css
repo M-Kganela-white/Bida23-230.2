@@ -147,6 +147,7 @@ body {
 
 .movie-list-container {
   padding: 0 20px;
+  flex: 6;
 }
 
 .movie-list-wrapper {
