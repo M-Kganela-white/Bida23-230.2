@@ -242,6 +242,7 @@ footer {
   display: inline-block;
   margin: 2em 0;
   height: 110px;
+  min-height: 100vh;
   background-color: #000;
   .copyright {
     width: 50%;
