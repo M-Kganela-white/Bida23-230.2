@@ -278,6 +278,7 @@ footer {
       color: white;
       text-align: center;
       font-weight: bold; 
+      word-spacing: 30px;
       @include transition(all, 0.3s);
        &:hover {
          background-color: #222;
