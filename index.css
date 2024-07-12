@@ -1,8 +1,6 @@
 a {
   text-decoration: none;
-}
-a:visited { 
- color: white; 
+  color: white;
 }
 * {
   margin: 0;
@@ -243,7 +241,7 @@ footer {
   width: 100%;
   display: inline-block;
   margin: 2em 0;
-  height: 90px;
+  height: 110px;
   background-color: #000;
   .copyright {
     width: 50%;
