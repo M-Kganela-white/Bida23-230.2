@@ -140,6 +140,7 @@ body {
 }
 
 .container {
+  background-image: url("images/JokerPoster.jpg");
   background-color: #151515;
   min-height: calc(100vh - 50px);
   color: white;
