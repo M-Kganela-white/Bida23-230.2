@@ -68,6 +68,7 @@ body {
 .featured-content {
   height: 50vh;
   padding: 50px;
+   background-image: url("images/JokerPoster.jpg");
 }
 
 .featured-title {
